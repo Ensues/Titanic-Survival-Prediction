@@ -1,4 +1,4 @@
-## Titanic Survival Prediction
+# Titanic Survival Prediction
 
 This project aimed to develop a model for predicting Titanic passenger survival based on features such as passenger class, sex, and age. The analysis revealed a strong correlation between these features and survival outcomes, allowing the model to accurately predict survival probabilities.
 
